@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/osmar_ortiz79" target="blank"><img src="https://img.shields.io/twitter/follow/osmar_ortiz79?logo=twitter&style=for-the-badge" alt="osmar_ortiz79" /></a> </p>
 
-- 🔭 I’m currently working on [OpenJob](https://github.com/Xizted/OpenJob)
+- 🔭 I’m currently working on [Xizblog-Backend](https://github.com/Xizted/xizblog-backend)
 
 - 🌱 I’m currently learning **Nestjs, Testing Library**
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **osmar.1288@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/10zvt4jhRFNg4THRDQ02_DptIBPtd6gqa/view?usp=sharing](https://drive.google.com/file/d/10zvt4jhRFNg4THRDQ02_DptIBPtd6gqa/view?usp=sharing)
+- 📄 Know about my experiences [Download CV](https://drive.google.com/file/d/10zvt4jhRFNg4THRDQ02_DptIBPtd6gqa/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
