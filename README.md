@@ -1,7 +1,11 @@
 [![](https://visitcount.itsvg.in/api?id=Xizted&icon=0&color=0)](https://visitcount.itsvg.in)
 ---
 # 💫 About Me:
-- 💻 I am currently a React/React Native Frontend developer.<br>- 🏆 I'm a native Spanish speaker, at the moment, I'm learning English.<br>- 👯 I love learning new things and helping others, I plan to make a blog to share my knowledge.<br>- 🥅 2022 Goals: to work in a high quality company as a Junior Frontend Developer.<br>- 🤓 I am currently learning Nestjs and Testing.
+- 💻 I am currently a React/React Native Frontend developer.
+- 🏆 I'm a native Spanish speaker, at the moment, I'm learning English. 
+- 👯 I love learning new things and helping others, I plan to make a blog to share my knowledge.
+- 🥅 2022 Goals: to work in a high quality company as a Junior Frontend Developer.
+- 🤓 I am currently learning Nestjs and Testing.
 
 
 ## 🌐 Socials:
